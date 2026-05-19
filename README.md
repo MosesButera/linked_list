@@ -91,6 +91,7 @@ Connect last node to new node
 
 # print_list
 
+```text
 Start at head node
 
 WHILE current node exists
@@ -102,7 +103,7 @@ WHILE current node exists
 END WHILE
 
 print "nil"
-
+```
 ---
 
 # prepend(value)
